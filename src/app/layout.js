@@ -14,7 +14,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className}>
-        <div className=' mx-auto h-screen '>
+        <div className=' mx-auto h-screen font-lora text-[#464646]'>
         <Navbar/>
         {children}
         <Footer />
