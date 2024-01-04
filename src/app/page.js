@@ -10,8 +10,8 @@ export default function Home() {
         <div className='basis-1/2 bg-white flex flex-col justify-center px-32 gap-6 '>
 
             <div>
-              <div><h1 className='text-3xl'>It takes money
-               <br /> <span className='italic'>to change the world.</span></h1></div>
+              <div><h1 className='text-3xl'>The future is built
+               <br /> <span className='italic'>not wished of hoped for.</span></h1></div>
               <div> - </div>
             </div>
             <div>
