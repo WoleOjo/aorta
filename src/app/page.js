@@ -10,13 +10,13 @@ export default function Home() {
         <div className='basis-1/2 bg-white flex flex-col justify-center px-32 gap-6 '>
 
             <div>
-              <div><h1 className='text-3xl'>The future is built
-               <br /> <span className='italic'>not wished of hoped for.</span></h1></div>
+              <div><h1 className='text-3xl'>The future is built,
+               <br /> <span className='italic'>not wished or hoped for.</span></h1></div>
               <div> - </div>
             </div>
             <div>
               <p className='font-thin italic lin'>
-                Our goal isn’t just to write checks. It’s to deposit and grow ideas.
+                We employ the most recent technologies to build solutions.
                  We look at finance with a hungry eye for change, and with a desire to share our learning and experience –
                 including some painful mistakes along the way – with ambitious entrepreneurs.
               </p>
